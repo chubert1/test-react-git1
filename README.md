@@ -2,4 +2,5 @@
 # test-react-git1
 une demo de git
 ==============
-une demo de git qui se passe de 
+une demo de git qui se passe bien
+et maintenant on modifie depuis github
